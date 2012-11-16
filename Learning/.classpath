@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="JBPM/jbpm"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee-juno-win32-x86_64/eclipse/plugins/org.eclipse.jdt.core.manipulation_1.5.0.v20120523-1543.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/eclipse-jee-juno-win32-x86_64/eclipse/plugins/org.eclipse.jdt.core_3.8.1.v20120531-0637.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
